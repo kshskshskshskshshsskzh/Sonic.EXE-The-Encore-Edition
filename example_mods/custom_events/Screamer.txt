@@ -1,0 +1,1 @@
+tails = 0, tails off = 1, knuckles = 2, knuckles off = 3, eggman = 4, eggman off = 5

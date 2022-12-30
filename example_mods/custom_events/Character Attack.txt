@@ -1,0 +1,2 @@
+Value 1: Attack ID (slash, final)
+Value 2: Attack sequence number
