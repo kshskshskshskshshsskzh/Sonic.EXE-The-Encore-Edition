@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				496,
+				199
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "xeno left_",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "xeno down_"
+		},
+		{
+			"offsets": [
+				222,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "xeno up_"
+		},
+		{
+			"offsets": [
+				448,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "xeno right_"
+		},
+		{
+			"offsets": [
+				469,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "xeno idle_"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xeno assets",
+	"position": [
+		20,
+		-200
+	],
+	"healthicon": "xeno1",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		19,
+		124
+	],
+	"camera_position": [
+		-430,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

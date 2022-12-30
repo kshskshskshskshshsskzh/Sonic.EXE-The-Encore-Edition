@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				516
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Dancing Beat0"
+		},
+		{
+			"offsets": [
+				13,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note0"
+		},
+		{
+			"offsets": [
+				13,
+				515
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note0"
+		},
+		{
+			"offsets": [
+				16,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note0"
+		},
+		{
+			"offsets": [
+				13,
+				515
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf_empty",
+	"position": [
+		485,
+		650
+	],
+	"healthicon": "bf-slash-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		189,
+		255
+	],
+	"camera_position": [
+		1300,
+		-995
+	],
+	"sing_duration": 4,
+	"scale": 3.00000000000001
+}

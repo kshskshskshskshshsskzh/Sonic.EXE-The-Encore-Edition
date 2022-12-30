@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				260,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Note0"
+		},
+		{
+			"offsets": [
+				301,
+				311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				591,
+				260
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				260
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left Note0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beast_encore",
+	"position": [
+		1170,
+		-470
+	],
+	"healthicon": "beast",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		6,
+		117
+	],
+	"camera_position": [
+		-590,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

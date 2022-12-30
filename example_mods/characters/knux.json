@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-173
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "knuckles idle0"
+		},
+		{
+			"offsets": [
+				14,
+				-154
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "knuckles up0"
+		},
+		{
+			"offsets": [
+				103,
+				-179
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "knuckles down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-167
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "knuckles right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-166
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "knuckles left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fuckls",
+	"position": [
+		860,
+		-420
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		200
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1.1
+}

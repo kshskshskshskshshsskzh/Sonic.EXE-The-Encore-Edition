@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "YcrJUSTDIE0"
+		},
+		{
+			"offsets": [
+				0,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "die",
+			"loop": false,
+			"name": "YcrJUSTDIE0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DieYCR",
+	"position": [
+		-180,
+		-100
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-910,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

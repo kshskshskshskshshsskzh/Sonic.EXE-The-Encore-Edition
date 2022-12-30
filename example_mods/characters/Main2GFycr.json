@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-102,
+				-109
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "DanceLeft"
+		},
+		{
+			"offsets": [
+				-106,
+				-109
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "DanceRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Main2GF",
+	"position": [
+		10,
+		-340
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

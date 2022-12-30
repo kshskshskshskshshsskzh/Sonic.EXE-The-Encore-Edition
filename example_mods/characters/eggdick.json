@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				164,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				256,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				315,
+				431
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				165,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				166,
+				389
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "laugh",
+			"indices": [],
+			"name": "Laugh"
+		},
+		{
+			"offsets": [
+				320,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Encore_Eggman",
+	"position": [
+		90,
+		-200
+	],
+	"healthicon": "robo",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		-130,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
